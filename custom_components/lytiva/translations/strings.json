@@ -1,0 +1,20 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Lytiva",
+                "description": "Set up your Lytiva integration",
+                "data": {
+                    "broker": "MQTT Broker",
+                    "port": "Port",
+                    "username": "Username",
+                    "password": "Password"
+                }
+            }
+        },
+        "error": {
+            "cannot_connect": "Failed to connect",
+            "invalid_auth": "Invalid authentication"
+        }
+    }
+}
